@@ -1,0 +1,2 @@
+The website that I will build is for the first project of theodinproject foundations course.
+This project will demonstrate my skills in basic html. So no CSS or Javascript will be used for this website.
